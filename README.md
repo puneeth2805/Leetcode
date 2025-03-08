@@ -31,4 +31,9 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/puneeth2805/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/puneeth2805/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/puneeth2805/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
