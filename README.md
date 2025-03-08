@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/puneeth2805/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [3227-find-missing-and-repeated-values](https://github.com/puneeth2805/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/puneeth2805/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/puneeth2805/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
