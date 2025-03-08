@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/puneeth2805/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/puneeth2805/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/puneeth2805/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
