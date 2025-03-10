@@ -15,11 +15,13 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/puneeth2805/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/puneeth2805/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/puneeth2805/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/puneeth2805/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -43,4 +45,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/puneeth2805/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
