@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/puneeth2805/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/puneeth2805/Leetcode/tree/master/0724-find-pivot-index) |
 | [3227-find-missing-and-repeated-values](https://github.com/puneeth2805/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puneeth2805/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
