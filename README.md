@@ -18,6 +18,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/puneeth2805/Leetcode/tree/master/0724-find-pivot-index) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/puneeth2805/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/puneeth2805/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/puneeth2805/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/puneeth2805/Leetcode/tree/master/3483-alternating-groups-ii) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/puneeth2805/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puneeth2805/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/puneeth2805/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/puneeth2805/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/puneeth2805/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
