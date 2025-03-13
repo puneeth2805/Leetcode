@@ -23,6 +23,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/puneeth2805/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/puneeth2805/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/puneeth2805/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/puneeth2805/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/puneeth2805/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/puneeth2805/Leetcode/tree/master/0724-find-pivot-index) |
+| [3643-zero-array-transformation-ii](https://github.com/puneeth2805/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/puneeth2805/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/puneeth2805/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
 | ------- |
