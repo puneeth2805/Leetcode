@@ -55,6 +55,7 @@
 | [0443-string-compression](https://github.com/puneeth2805/Leetcode/tree/master/0443-string-compression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/puneeth2805/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/puneeth2805/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2470-removing-stars-from-a-string](https://github.com/puneeth2805/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/puneeth2805/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2470-removing-stars-from-a-string](https://github.com/puneeth2805/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/puneeth2805/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2470-removing-stars-from-a-string](https://github.com/puneeth2805/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
