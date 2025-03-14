@@ -52,6 +52,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/puneeth2805/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/puneeth2805/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/puneeth2805/Leetcode/tree/master/0443-string-compression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/puneeth2805/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/puneeth2805/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -73,6 +74,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/puneeth2805/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2470-removing-stars-from-a-string](https://github.com/puneeth2805/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0392-is-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/puneeth2805/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
