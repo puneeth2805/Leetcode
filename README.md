@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/puneeth2805/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/puneeth2805/Leetcode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puneeth2805/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/puneeth2805/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/puneeth2805/Leetcode/tree/master/0443-string-compression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/puneeth2805/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/puneeth2805/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
