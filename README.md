@@ -33,6 +33,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/puneeth2805/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/puneeth2805/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/puneeth2805/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/puneeth2805/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -59,6 +60,7 @@
 | [0394-decode-string](https://github.com/puneeth2805/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/puneeth2805/Leetcode/tree/master/0443-string-compression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/puneeth2805/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/puneeth2805/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/puneeth2805/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/puneeth2805/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/puneeth2805/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -103,6 +105,7 @@
 ## Counting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/puneeth2805/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/puneeth2805/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
@@ -112,6 +115,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/puneeth2805/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
