@@ -121,4 +121,16 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/puneeth2805/Leetcode/tree/master/0394-decode-string) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/puneeth2805/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/puneeth2805/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/puneeth2805/Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
