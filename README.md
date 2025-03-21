@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/puneeth2805/Leetcode/tree/master/0724-find-pivot-index) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/puneeth2805/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/puneeth2805/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/puneeth2805/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/puneeth2805/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/puneeth2805/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -38,6 +39,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/puneeth2805/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/puneeth2805/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/puneeth2805/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/puneeth2805/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/puneeth2805/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/puneeth2805/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -65,6 +67,7 @@
 | [0443-string-compression](https://github.com/puneeth2805/Leetcode/tree/master/0443-string-compression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/puneeth2805/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/puneeth2805/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/puneeth2805/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/puneeth2805/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/puneeth2805/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/puneeth2805/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -158,5 +161,10 @@
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/puneeth2805/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/puneeth2805/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/puneeth2805/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
