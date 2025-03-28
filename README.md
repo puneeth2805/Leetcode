@@ -27,6 +27,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/puneeth2805/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/puneeth2805/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/puneeth2805/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/puneeth2805/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/puneeth2805/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/puneeth2805/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/puneeth2805/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/puneeth2805/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -65,6 +67,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puneeth2805/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/puneeth2805/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/puneeth2805/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -137,6 +140,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/puneeth2805/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/puneeth2805/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/puneeth2805/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/puneeth2805/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/puneeth2805/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -171,6 +175,7 @@
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/puneeth2805/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/puneeth2805/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -194,6 +199,7 @@
 |  |
 | ------- |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/puneeth2805/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/puneeth2805/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
@@ -207,6 +213,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/puneeth2805/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Quickselect
 |  |
 | ------- |
