@@ -194,12 +194,14 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/puneeth2805/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/puneeth2805/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/puneeth2805/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/puneeth2805/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/puneeth2805/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/puneeth2805/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/puneeth2805/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/puneeth2805/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -224,10 +226,12 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/puneeth2805/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/puneeth2805/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/puneeth2805/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/puneeth2805/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/puneeth2805/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/puneeth2805/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
