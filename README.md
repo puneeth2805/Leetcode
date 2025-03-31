@@ -31,6 +31,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/puneeth2805/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/puneeth2805/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2681-put-marbles-in-bags](https://github.com/puneeth2805/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/puneeth2805/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/puneeth2805/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/puneeth2805/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0768-partition-labels](https://github.com/puneeth2805/Leetcode/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/puneeth2805/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/puneeth2805/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Search
 |  |
@@ -151,6 +153,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/puneeth2805/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/puneeth2805/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/puneeth2805/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/puneeth2805/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/puneeth2805/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -229,6 +232,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/puneeth2805/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/puneeth2805/Leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Quickselect
 |  |
 | ------- |
