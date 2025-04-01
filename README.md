@@ -29,6 +29,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/puneeth2805/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/puneeth2805/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/puneeth2805/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2551-apply-operations-to-an-array](https://github.com/puneeth2805/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/puneeth2805/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2681-put-marbles-in-bags](https://github.com/puneeth2805/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -73,6 +74,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puneeth2805/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/puneeth2805/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/puneeth2805/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/puneeth2805/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/puneeth2805/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -145,6 +147,7 @@
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/puneeth2805/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/puneeth2805/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/puneeth2805/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
