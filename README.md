@@ -23,6 +23,7 @@
 | [0238-product-of-array-except-self](https://github.com/puneeth2805/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/puneeth2805/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/puneeth2805/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/puneeth2805/Leetcode/tree/master/0724-find-pivot-index) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/puneeth2805/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/puneeth2805/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/puneeth2805/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/puneeth2805/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/puneeth2805/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Recursion
