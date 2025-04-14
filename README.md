@@ -27,6 +27,7 @@
 | [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/puneeth2805/Leetcode/tree/master/0724-find-pivot-index) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/puneeth2805/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1656-count-good-triplets](https://github.com/puneeth2805/Leetcode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/puneeth2805/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/puneeth2805/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -278,4 +279,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/puneeth2805/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/puneeth2805/Leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
