@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/puneeth2805/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/puneeth2805/Leetcode/tree/master/0009-palindrome-number) |
 | [0368-largest-divisible-subset](https://github.com/puneeth2805/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1013-fibonacci-number](https://github.com/puneeth2805/Leetcode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/puneeth2805/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/puneeth2805/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/puneeth2805/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -188,12 +189,14 @@
 | [0368-largest-divisible-subset](https://github.com/puneeth2805/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/puneeth2805/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1013-fibonacci-number](https://github.com/puneeth2805/Leetcode/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/puneeth2805/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/puneeth2805/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/puneeth2805/Leetcode/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/puneeth2805/Leetcode/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/puneeth2805/Leetcode/tree/master/1656-count-good-triplets) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/puneeth2805/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
