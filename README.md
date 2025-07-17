@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/puneeth2805/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/puneeth2805/Leetcode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/puneeth2805/Leetcode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/puneeth2805/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/puneeth2805/Leetcode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/puneeth2805/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puneeth2805/Leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/puneeth2805/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/puneeth2805/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/puneeth2805/Leetcode/tree/master/0768-partition-labels) |
@@ -88,6 +90,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/puneeth2805/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/puneeth2805/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/puneeth2805/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/puneeth2805/Leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/puneeth2805/Leetcode/tree/master/0768-partition-labels) |
