@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puneeth2805/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/puneeth2805/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/puneeth2805/Leetcode/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth2805/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/puneeth2805/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/puneeth2805/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/puneeth2805/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/puneeth2805/Leetcode/tree/master/0443-string-compression) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/puneeth2805/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/puneeth2805/Leetcode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/puneeth2805/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1777-determine-if-two-strings-are-close](https://github.com/puneeth2805/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/puneeth2805/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
