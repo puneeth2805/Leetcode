@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/puneeth2805/Leetcode/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/puneeth2805/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/puneeth2805/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -57,6 +58,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/puneeth2805/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/puneeth2805/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/puneeth2805/Leetcode/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/puneeth2805/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
