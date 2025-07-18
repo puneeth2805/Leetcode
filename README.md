@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/puneeth2805/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/puneeth2805/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/puneeth2805/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/puneeth2805/Leetcode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/puneeth2805/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/puneeth2805/Leetcode/tree/master/1013-fibonacci-number) |
@@ -193,6 +194,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/puneeth2805/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/puneeth2805/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/puneeth2805/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/puneeth2805/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -303,6 +305,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/puneeth2805/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/puneeth2805/Leetcode/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
